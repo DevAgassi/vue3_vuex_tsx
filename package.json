@@ -9,6 +9,8 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@vueblocks/vue-use-core": "^0.2.11",
+    "@vueblocks/vue-use-vuex": "^0.2.11",
     "vue": "^3.2.33",
     "vue-router": "^4.0.14",
     "vuex": "^4.0.2"
